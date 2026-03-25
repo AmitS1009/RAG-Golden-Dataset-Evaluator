@@ -1,0 +1,4 @@
+youtube-transcript-api
+groq
+streamlit
+python-dotenv

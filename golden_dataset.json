@@ -1,0 +1,27 @@
+[
+  {
+    "question": "According to the video, how do activations in one layer of a neural network determine activations in the following layer?",
+    "answer": "By calculating the weighted sum of activations from the previous layer, adding a bias, and passing the result through a non-linear function like Sigmoid or ReLU.",
+    "source": "3Blue1Brown — But what is a Neural Network? [05:20]"
+  },
+  {
+    "question": "In the self-attention mechanism, what specific mathematical operation determines how much of token B's 'Value' vector is mixed into token A's new representation?",
+    "answer": "The dot product of token A's 'Query' vector and token B's 'Key' vector, which yields the attention score.",
+    "source": "3Blue1Brown — Transformers, the tech behind LLMs [12:30]"
+  },
+  {
+    "question": "What is the primary operational difference mentioned between Machine Learning and Deep Learning regarding feature extraction for unstructured data?",
+    "answer": "In Machine Learning, feature extraction is a manual process requiring explicit logic (feature engineering). In Deep Learning, the algorithm's neural network layers automatically extract features directly from raw data.",
+    "source": "CampusX — What is Deep Learning? (Hindi) [05:15]"
+  },
+  {
+    "question": "According to the video, why are Recurrent Neural Networks (RNN) or Transformers preferred over Convolutional Neural Networks (CNN) for processing sequential data like text or time-series?",
+    "answer": "Because RNNs and Transformers possess memory regarding past inputs, which is necessary for handling sequential data, whereas CNNs are primarily designed for extracting spatial information from images.",
+    "source": "CodeWithHarry — All About ML & Deep Learning (Hindi) [12:15]"
+  },
+  {
+    "question": "What role does the non-linear function (like Sigmoid or ReLU) play in the calculation of a neuron's activation?",
+    "answer": "It acts as a critical final transformation that processes the weighted sum of previous activations plus the neuron's bias to determine the subsequent final activation value for that neuron.",
+    "source": "3Blue1Brown — But what is a Neural Network? [08:10]"
+  }
+]
