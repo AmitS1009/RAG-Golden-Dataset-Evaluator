@@ -84,9 +84,3 @@ python generate_golden_dataset.py
 Fire up the Streamlit UI to review the methodology and Q&A pairs interactively:
 ```bash
 streamlit run app.py
-```
-
----
-<div align="center">
-  <i>"Show me how you think." — Engineered for maximum impact.</i>
-</div>
